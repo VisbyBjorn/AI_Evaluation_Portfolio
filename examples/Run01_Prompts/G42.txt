@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+Hur många extra dagar får en kund vars exportfunktion varit nere i tre dagar under exportperioden?
+
+
+DOCUMENTS
+
+
+[D23]
+Title: Migration Incident Preparation
+Date: 2026-09-08 00:00:00
+Status: Intern driftplan
+Customer: 
+Content: Engineering räknar med att vissa exportjobb kan fördröjas upp till tre dagar under migrationen. Dokumentet beskriver teknisk fördröjning, inte kundernas avtalsrättigheter.
+
+
+[D24]
+Title: Export Extension Proposal
+Date: 2026-09-09 00:00:00
+Status: Förslag – ej beslutat
+Customer: 
+Content: Customer Operations föreslår att berörda kunder eventuellt ska få tre extra exportdagar efter migrationen. Förslaget är inte godkänt.
+
+
+[D06]
+Title: Old Data Retention Policy v1.7
+Date: 2025-08-01 00:00:00
+Status: Ersatt
+Customer: 
+Content: Ordinarie dataexport kunde tidigare hämtas i 30 dagar efter kontoavslut. Policyn ersattes under 2026.
+
+
+[D15]
+Title: Historical Refund Example
+Date: 2026-01-16 00:00:00
+Status: Historiskt exempel
+Customer: 
+Content: En Business-kund fick tidigare 5 000 kr i kredit efter en långvarig incident. Dokumentet beskriver ett enskilt historiskt fall och etablerar ingen generell policy.
+
+
+[S5]
+Title: Customer Help FAQ
+Date: 2025-09-18 00:00:00
+Status: Äldre / ej bekräftad som aktuell
+Customer: 
+Content: FAQ:n innehåller bland annat följande: dataexport finns normalt tillgänglig i 30 dagar efter kontoavslut; Enterprise P1 har normalt en timmes initial svarstid; kunder kan kontakta support för att diskutera återbetalning inom 30 dagar från betalning. FAQ-sidan saknar uppgift om huruvida informationen fortfarande är aktuell.

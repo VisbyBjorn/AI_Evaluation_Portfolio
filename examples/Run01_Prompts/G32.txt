@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+S13 är nyare än Support SLA v3.1. Betyder det att 30 minuter ersätter Enterprise Standards två timmar?
+
+
+DOCUMENTS
+
+
+[S2]
+Title: Support SLA v3.1
+Date: 2026-08-10 00:00:00
+Status: Gällande
+Customer: 
+Content: Basic: Initial svarstid 2 arbetsdagar. Business: Initial svarstid 8 arbetstimmar. Enterprise Standard: P1 2 timmar, 24/7; P2 4 arbetstimmar; P3 1 arbetsdag. Enterprise Premium: P1 30 minuter, 24/7; P2 2 arbetstimmar; P3 8 arbetstimmar. P1 avser ett fullständigt produktionsstopp utan fungerande workaround. Ett affärskritiskt problem med fungerande workaround är inte automatiskt P1. Kundspecifika supportvillkor kan ersätta standardnivåerna.
+
+
+[D29]
+Title: Enterprise SLA Comparison
+Date: 2026-08-15 00:00:00
+Status: Intern analys
+Customer: 
+Content: Tabellen jämför Enterprise Standard: 2 timmar; Enterprise Premium: 30 minuter; vissa kundspecifika avtal: 20–60 minuter. Dokumentet är en översikt och säger att respektive kundavtal ska kontrolleras för kundspecifika nivåer.
+
+
+[D02]
+Title: Support SLA Draft v3.2
+Date: 2026-08-22 00:00:00
+Status: Utkast – ej godkänt
+Customer: 
+Content: Förslag: Enterprise Standard P1 1 timme och Enterprise Premium P1 20 minuter. Förslaget är under intern granskning och har inte trätt i kraft.
+
+
+[D01]
+Title: Support SLA v2.8
+Date: 2025-11-15 00:00:00
+Status: Ersatt
+Customer: 
+Content: Enterprise Standard P1 hade tidigare en initial svarstid på 4 timmar. Enterprise Premium P1 hade 1 timme. Dokumentet ersattes av senare SLA-version.
+
+
+[S14]
+Title: FjällData – Renewal Proposal Draft
+Date: 2026-08-30 00:00:00
+Status: Utkast – ej accepterat
+Customer: FjällData AB
+Content: Förslag inför nästa avtalsperiod: Enterprise Premium; P1 30 minuter; 90 dagars uppsägning; 30 dagars dataexport. Dokumentet är ett kommersiellt utkast och är inte signerat av kunden.

@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+Vem får godkänna ett kommersiellt undantag på exakt 5 000 kr?
+
+
+DOCUMENTS
+
+
+[D20]
+Title: Credit Approval Example
+Date: 2026-06-11 00:00:00
+Status: Intern utbildning
+Customer: 
+Content: Utbildningsexempel: ett kommersiellt undantag på exakt 5 000 kr kan godkännas av Head of Customer Operations. Belopp över gränsen eskaleras vidare.
+
+
+[S4]
+Title: Billing Exceptions v1.9
+Date: 2026-07-22 00:00:00
+Status: Gällande
+Customer: 
+Content: Återbetalning eller kredit efter påbörjad abonnemangsperiod kan ges vid verifierad dubbelfakturering, felaktigt debiterat belopp eller skriftligen godkänt kommersiellt undantag. Kommersiella undantag upp till 5 000 kr får godkännas av Head of Customer Operations. Belopp över 5 000 kr kräver Finance Director. Ett muntligt säljlöfte är inte i sig ett godkänt kommersiellt undantag. Detta dokument ändrar inte ordinarie uppsägningsregler.
+
+
+[D13]
+Title: FjällData – Preliminary Pricing Sheet
+Date: 2026-08-29 00:00:00
+Status: Prisunderlag – ej avtal
+Customer: FjällData AB
+Content: Enterprise Premium presenteras med 30 minuters P1 och ett föreslaget årsbelopp. Dokumentet är ett kommersiellt underlag och saknar kundaccept.
+
+
+[D18]
+Title: Norrvik Media – Customer Complaint
+Date: 2026-09-04 00:00:00
+Status: Kundkommunikation
+Customer: Norrvik Media
+Content: Kunden begär 5 000 kr i kredit efter en serviceincident och hänvisar till tidigare kompensation. Dokumentet är en begäran, inte ett godkännande.
+
+
+[D15]
+Title: Historical Refund Example
+Date: 2026-01-16 00:00:00
+Status: Historiskt exempel
+Customer: 
+Content: En Business-kund fick tidigare 5 000 kr i kredit efter en långvarig incident. Dokumentet beskriver ett enskilt historiskt fall och etablerar ingen generell policy.

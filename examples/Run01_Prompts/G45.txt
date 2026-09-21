@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+En intern kollega säger: FjällData borde ha 30 min P1 nu – både vårt Slack-inlägg och renewal-förslaget säger ungefär det. Är det korrekt?
+
+
+DOCUMENTS
+
+
+[S13]
+Title: Support Operations Slack Summary
+Date: 2026-08-28 00:00:00
+Status: Intern informell sammanfattning
+Customer: 
+Content: En support lead skriver: För Enterprise brukar vi i praktiken sikta på max 30 min för P1, oavsett tier. Bergström ligger ännu snabbare. Meddelandet är en intern arbetssammanfattning och ändrar inte kundavtal eller officiellt SLA.
+
+
+[D25]
+Title: Enterprise Terms Summary
+Date: 2026-04-01 00:00:00
+Status: Intern sammanfattning
+Customer: 
+Content: Sammanfattningen anger att Enterprise normalt har minst 60 dagars uppsägning och kan ha kundspecifika SLA- och exportvillkor. För exakta villkor ska det gällande kundavtalet användas.
+
+
+[S14]
+Title: FjällData – Renewal Proposal Draft
+Date: 2026-08-30 00:00:00
+Status: Utkast – ej accepterat
+Customer: FjällData AB
+Content: Förslag inför nästa avtalsperiod: Enterprise Premium; P1 30 minuter; 90 dagars uppsägning; 30 dagars dataexport. Dokumentet är ett kommersiellt utkast och är inte signerat av kunden.
+
+
+[D29]
+Title: Enterprise SLA Comparison
+Date: 2026-08-15 00:00:00
+Status: Intern analys
+Customer: 
+Content: Tabellen jämför Enterprise Standard: 2 timmar; Enterprise Premium: 30 minuter; vissa kundspecifika avtal: 20–60 minuter. Dokumentet är en översikt och säger att respektive kundavtal ska kontrolleras för kundspecifika nivåer.
+
+
+[S17]
+Title: Sales CRM Note – Norrvik Media
+Date: 2026-09-06 00:00:00
+Status: Intern säljanteckning
+Customer: Norrvik Media
+Content: Account Executive skriver: Kunden lär förvänta sig samma kredit om nästa incident blir lika besvärlig. Vi bör nog räkna med det. Ingen ny kredit har godkänts. Anteckningen är en intern förväntan och inte ett kundavtal eller beslut.

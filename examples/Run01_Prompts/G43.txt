@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+Om exportfunktionen är otillgänglig den 13 september, betyder det att kunden saknar rätt att begära export den dagen?
+
+
+DOCUMENTS
+
+
+[D22]
+Title: FjällData – Migration Support Note
+Date: 2026-09-11 00:00:00
+Status: Intern supportanteckning
+Customer: FjällData AB
+Content: Support planerar att hjälpa FjällData manuellt om exportfunktionen påverkas under migrationen 12–14 september. Anteckningen fastställer ingen förlängning av kundens exportperiod.
+
+
+[D09]
+Title: Bergström Logistics – Sales Note
+Date: 2026-08-27 00:00:00
+Status: Intern anteckning
+Customer: Bergström Logistics
+Content: Account manager bedömer att kunden sannolikt skulle acceptera Enterprise Standard nästa avtalsperiod om priset blir rätt. Ingen avtalsändring finns.
+
+
+[S16]
+Title: Refund Approval – Case RF-8821
+Date: 2026-09-05 00:00:00
+Status: Godkänt individuellt undantag
+Customer: Norrvik Media
+Content: Head of Customer Operations godkänner en kredit på 4 800 kr till Business-kunden Norrvik Media. Orsak: dokumenterad serviceincident. Beslutet gäller endast Norrvik Media och faktura INV-8821. Det ändrar inte den generella refund-policyn.
+
+
+[S10]
+Title: Backup & Recovery Operations Note
+Date: 2026-08-02 00:00:00
+Status: Intern teknisk information
+Customer: 
+Content: Produktionsdata ingår i interna säkerhetskopior med en teknisk retention på upp till 35 dagar. Backup-retention innebär inte att kunden har rätt till självbetjänad export eller kontoåterställning under samma period. Återställning av ett avslutat konto behandlas från fall till fall av Engineering och regleras inte av detta dokument.
+
+
+[S18]
+Title: Data Migration Notice
+Date: 2026-09-10 00:00:00
+Status: Gällande tillfällig driftinformation
+Customer: 
+Content: På grund av en planerad datamigrering kan ordinarie exportfunktion vara otillgänglig 12–14 september 2026. Detta ändrar inte kundernas avtalsmässiga exportperioder. Support kan hjälpa berörda kunder att registrera exportbegäran under avbrottet.

@@ -1,0 +1,55 @@
+Evalcase 03 – Retrieval Experiment Summary
+
+Syfte
+Jämföra fyra retrieval-varianter på samma 15 frågor och samma corpus med 50 dokument.
+
+Metoder
+1. TF-IDF
+2. Multilingual embeddings
+3. Embeddings + enkla metadataregler
+4. Embeddings + CrossEncoder-reranking
+
+Resultat
+
+TF-IDF
+Hit@3: 12/15 (80 %)
+Hit@5: 13/15 (86,7 %)
+All Gold Sources @5: 7/15 (46,7 %)
+
+Embeddings
+Hit@3: 14/15 (93,3 %)
+Hit@5: 14/15 (93,3 %)
+All Gold Sources @5: 8/15 (53,3 %)
+
+Embeddings + metadata
+Hit@3: 10/15 (66,7 %)
+Hit@5: 12/15 (80 %)
+All Gold Sources @5: 6/15 (40 %)
+
+Embeddings + reranking
+Hit@3: 13/15 (86,7 %)
+Hit@5: 14/15 (93,3 %)
+All Gold Sources @5: 7/15 (46,7 %)
+
+Huvudfynd
+Den rena embedding-baserade retrievalen gav bäst resultat på samtliga övergripande mått.
+
+Enkla globala metadata-bonusar försämrade retrieval genom att överstyra semantisk relevans i flera frågor.
+
+CrossEncoder-reranking förbättrade inte embedding-baselinen. Hit@5 behölls, men Hit@3 och All Gold Sources @5 försämrades.
+
+Experimentet visar att mer komplex retrieval inte automatiskt ger bättre resultat.
+
+Särskilt svåra fall
+G34 – ofullständig temporal/kundspecifik retrieval
+G41 – olika metoder missar olika avgörande källor
+G42 – samtliga huvudmetoder har problem att prioritera S18
+G45 – fler-källretrieval och source authority förblir flaskhals
+
+Metodisk slutsats
+Retrieval-förbättringar bör valideras empiriskt. Metadata och reranking bör inte antas förbättra kvalitet enbart för att de gör systemet mer avancerat.
+
+Beslut
+Embedding Run01 behålls som starkaste retrieval-baseline för detta testset.
+
+Vidare optimering mot G31–G45 stoppas för att minska risken för överanpassning mot evalsetet.

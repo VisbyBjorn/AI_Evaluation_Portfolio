@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+FjällDatas konto avslutas den 1 september. Exportfunktionen ligger nere 12–14 september. Har deras avtalsmässiga 14-dagarsperiod därför automatiskt förlängts?
+
+
+DOCUMENTS
+
+
+[D22]
+Title: FjällData – Migration Support Note
+Date: 2026-09-11 00:00:00
+Status: Intern supportanteckning
+Customer: FjällData AB
+Content: Support planerar att hjälpa FjällData manuellt om exportfunktionen påverkas under migrationen 12–14 september. Anteckningen fastställer ingen förlängning av kundens exportperiod.
+
+
+[S18]
+Title: Data Migration Notice
+Date: 2026-09-10 00:00:00
+Status: Gällande tillfällig driftinformation
+Customer: 
+Content: På grund av en planerad datamigrering kan ordinarie exportfunktion vara otillgänglig 12–14 september 2026. Detta ändrar inte kundernas avtalsmässiga exportperioder. Support kan hjälpa berörda kunder att registrera exportbegäran under avbrottet.
+
+
+[S3]
+Title: Data Export & Retention v2.4
+Date: 2026-06-15 00:00:00
+Status: Gällande
+Customer: 
+Content: Efter kontoavslut kan kunden hämta ordinarie dataexport under 14 kalenderdagar. Efter denna period är ordinarie kundåtkomst till exporten inte längre tillgänglig. Interna säkerhetskopior kan finnas kvar längre men är inte åtkomliga via kundens ordinarie exportfunktion. Dokumentet reglerar inte om ett avslutat konto kan återaktiveras. Kundspecifika avtal kan innehålla annan exportperiod.
+
+
+[D32]
+Title: Customer Contract Index
+Date: 2026-09-12 00:00:00
+Status: Intern dokumentindex
+Customer: 
+Content: Indexet anger: Bergström Logistics → Enterprise Addendum S6; FjällData AB → Enterprise Addendum S7; Norrvik Media → separat kundavtal. Indexet sammanfattar var auktoritativa kundspecifika dokument finns men innehåller inte deras fullständiga villkor.
+
+
+[S13]
+Title: Support Operations Slack Summary
+Date: 2026-08-28 00:00:00
+Status: Intern informell sammanfattning
+Customer: 
+Content: En support lead skriver: För Enterprise brukar vi i praktiken sikta på max 30 min för P1, oavsett tier. Bergström ligger ännu snabbare. Meddelandet är en intern arbetssammanfattning och ändrar inte kundavtal eller officiellt SLA.

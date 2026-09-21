@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+Har alla Business-kunder nu rätt till kredit upp till 4 800 kr vid en serviceincident?
+
+
+DOCUMENTS
+
+
+[D18]
+Title: Norrvik Media – Customer Complaint
+Date: 2026-09-04 00:00:00
+Status: Kundkommunikation
+Customer: Norrvik Media
+Content: Kunden begär 5 000 kr i kredit efter en serviceincident och hänvisar till tidigare kompensation. Dokumentet är en begäran, inte ett godkännande.
+
+
+[S16]
+Title: Refund Approval – Case RF-8821
+Date: 2026-09-05 00:00:00
+Status: Godkänt individuellt undantag
+Customer: Norrvik Media
+Content: Head of Customer Operations godkänner en kredit på 4 800 kr till Business-kunden Norrvik Media. Orsak: dokumenterad serviceincident. Beslutet gäller endast Norrvik Media och faktura INV-8821. Det ändrar inte den generella refund-policyn.
+
+
+[S10]
+Title: Backup & Recovery Operations Note
+Date: 2026-08-02 00:00:00
+Status: Intern teknisk information
+Customer: 
+Content: Produktionsdata ingår i interna säkerhetskopior med en teknisk retention på upp till 35 dagar. Backup-retention innebär inte att kunden har rätt till självbetjänad export eller kontoåterställning under samma period. Återställning av ett avslutat konto behandlas från fall till fall av Engineering och regleras inte av detta dokument.
+
+
+[S4]
+Title: Billing Exceptions v1.9
+Date: 2026-07-22 00:00:00
+Status: Gällande
+Customer: 
+Content: Återbetalning eller kredit efter påbörjad abonnemangsperiod kan ges vid verifierad dubbelfakturering, felaktigt debiterat belopp eller skriftligen godkänt kommersiellt undantag. Kommersiella undantag upp till 5 000 kr får godkännas av Head of Customer Operations. Belopp över 5 000 kr kräver Finance Director. Ett muntligt säljlöfte är inte i sig ett godkänt kommersiellt undantag. Detta dokument ändrar inte ordinarie uppsägningsregler.
+
+
+[D27]
+Title: FjällData – Support Ticket
+Date: 2026-07-21 00:00:00
+Status: Historisk supporthändelse
+Customer: FjällData AB
+Content: Vid en tidigare incident svarade support efter 42 minuter. Dokumentet visar faktisk responstid vid ett tillfälle men ändrar inte FjällDatas avtalade P1-SLA.

@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+Efter FjällDatas mejl den 2 september, ska support förbereda Premium-SLA för kunden?
+
+
+DOCUMENTS
+
+
+[D27]
+Title: FjällData – Support Ticket
+Date: 2026-07-21 00:00:00
+Status: Historisk supporthändelse
+Customer: FjällData AB
+Content: Vid en tidigare incident svarade support efter 42 minuter. Dokumentet visar faktisk responstid vid ett tillfälle men ändrar inte FjällDatas avtalade P1-SLA.
+
+
+[D29]
+Title: Enterprise SLA Comparison
+Date: 2026-08-15 00:00:00
+Status: Intern analys
+Customer: 
+Content: Tabellen jämför Enterprise Standard: 2 timmar; Enterprise Premium: 30 minuter; vissa kundspecifika avtal: 20–60 minuter. Dokumentet är en översikt och säger att respektive kundavtal ska kontrolleras för kundspecifika nivåer.
+
+
+[S13]
+Title: Support Operations Slack Summary
+Date: 2026-08-28 00:00:00
+Status: Intern informell sammanfattning
+Customer: 
+Content: En support lead skriver: För Enterprise brukar vi i praktiken sikta på max 30 min för P1, oavsett tier. Bergström ligger ännu snabbare. Meddelandet är en intern arbetssammanfattning och ändrar inte kundavtal eller officiellt SLA.
+
+
+[D25]
+Title: Enterprise Terms Summary
+Date: 2026-04-01 00:00:00
+Status: Intern sammanfattning
+Customer: 
+Content: Sammanfattningen anger att Enterprise normalt har minst 60 dagars uppsägning och kan ha kundspecifika SLA- och exportvillkor. För exakta villkor ska det gällande kundavtalet användas.
+
+
+[D22]
+Title: FjällData – Migration Support Note
+Date: 2026-09-11 00:00:00
+Status: Intern supportanteckning
+Customer: FjällData AB
+Content: Support planerar att hjälpa FjällData manuellt om exportfunktionen påverkas under migrationen 12–14 september. Anteckningen fastställer ingen förlängning av kundens exportperiod.

@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+Vilken plan har FjällData den 1 september 2026?
+
+
+DOCUMENTS
+
+
+[S18]
+Title: Data Migration Notice
+Date: 2026-09-10 00:00:00
+Status: Gällande tillfällig driftinformation
+Customer: 
+Content: På grund av en planerad datamigrering kan ordinarie exportfunktion vara otillgänglig 12–14 september 2026. Detta ändrar inte kundernas avtalsmässiga exportperioder. Support kan hjälpa berörda kunder att registrera exportbegäran under avbrottet.
+
+
+[S9]
+Title: FjällData commercial update
+Date: 2026-07-18 00:00:00
+Status: Aktuell kommersiell uppdatering
+Customer: FjällData AB
+Content: FjällData har valt att inte uppgradera till Enterprise Premium under 2026. Enterprise Standard fortsätter gälla. Frågan kan tas upp igen inför 2027 års budget.
+
+
+[S8]
+Title: FjällData account note
+Date: 2026-05-05 00:00:00
+Status: Historisk anteckning
+Customer: FjällData AB
+Content: Säljteamet diskuterade möjligheten att uppgradera FjällData från Enterprise Standard till Enterprise Premium. Kunden var positiv till att se prisförslag. Ingen uppgradering beställdes. Nuvarande plan kvarstår tills vidare.
+
+
+[D22]
+Title: FjällData – Migration Support Note
+Date: 2026-09-11 00:00:00
+Status: Intern supportanteckning
+Customer: FjällData AB
+Content: Support planerar att hjälpa FjällData manuellt om exportfunktionen påverkas under migrationen 12–14 september. Anteckningen fastställer ingen förlängning av kundens exportperiod.
+
+
+[S7]
+Title: FjällData AB – Enterprise Addendum
+Date: 2026-03-12 00:00:00
+Status: Kundspecifikt avtal
+Customer: FjällData AB
+Content: FjällData AB har Enterprise Standard. Kundspecifika villkor: P1-svarstid 1 timme, 24/7; uppsägning 60 kalenderdagar före förnyelse; dataexport följer Sundby Clouds standardpolicy. Inga andra kundspecifika undantag finns dokumenterade.

@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+Vilken plan kommer FjällData definitivt att ha nästa avtalsperiod?
+
+
+DOCUMENTS
+
+
+[S14]
+Title: FjällData – Renewal Proposal Draft
+Date: 2026-08-30 00:00:00
+Status: Utkast – ej accepterat
+Customer: FjällData AB
+Content: Förslag inför nästa avtalsperiod: Enterprise Premium; P1 30 minuter; 90 dagars uppsägning; 30 dagars dataexport. Dokumentet är ett kommersiellt utkast och är inte signerat av kunden.
+
+
+[D09]
+Title: Bergström Logistics – Sales Note
+Date: 2026-08-27 00:00:00
+Status: Intern anteckning
+Customer: Bergström Logistics
+Content: Account manager bedömer att kunden sannolikt skulle acceptera Enterprise Standard nästa avtalsperiod om priset blir rätt. Ingen avtalsändring finns.
+
+
+[S8]
+Title: FjällData account note
+Date: 2026-05-05 00:00:00
+Status: Historisk anteckning
+Customer: FjällData AB
+Content: Säljteamet diskuterade möjligheten att uppgradera FjällData från Enterprise Standard till Enterprise Premium. Kunden var positiv till att se prisförslag. Ingen uppgradering beställdes. Nuvarande plan kvarstår tills vidare.
+
+
+[S12]
+Title: Bergström Logistics account history
+Date: 2026-08-25 00:00:00
+Status: Aktuell account-historik
+Customer: Bergström Logistics
+Content: Bergström Logistics har diskuterat möjligheten att byta från Enterprise Premium till Enterprise Standard vid nästa avtalsperiod. Diskussionen har inte resulterat i någon beställning eller avtalsändring. Nuvarande Enterprise Premium-avtal gäller fortfarande.
+
+
+[D25]
+Title: Enterprise Terms Summary
+Date: 2026-04-01 00:00:00
+Status: Intern sammanfattning
+Customer: 
+Content: Sammanfattningen anger att Enterprise normalt har minst 60 dagars uppsägning och kan ha kundspecifika SLA- och exportvillkor. För exakta villkor ska det gällande kundavtalet användas.

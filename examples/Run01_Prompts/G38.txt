@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+Säljaren skriver att Norrvik lär förvänta sig samma kredit. Är det ett beslut om nästa kredit?
+
+
+DOCUMENTS
+
+
+[S17]
+Title: Sales CRM Note – Norrvik Media
+Date: 2026-09-06 00:00:00
+Status: Intern säljanteckning
+Customer: Norrvik Media
+Content: Account Executive skriver: Kunden lär förvänta sig samma kredit om nästa incident blir lika besvärlig. Vi bör nog räkna med det. Ingen ny kredit har godkänts. Anteckningen är en intern förväntan och inte ett kundavtal eller beslut.
+
+
+[D18]
+Title: Norrvik Media – Customer Complaint
+Date: 2026-09-04 00:00:00
+Status: Kundkommunikation
+Customer: Norrvik Media
+Content: Kunden begär 5 000 kr i kredit efter en serviceincident och hänvisar till tidigare kompensation. Dokumentet är en begäran, inte ett godkännande.
+
+
+[D19]
+Title: Norrvik Media – Account Manager Draft
+Date: 2026-09-05 00:00:00
+Status: Internt utkast
+Customer: Norrvik Media
+Content: Account Manager föreslår 5 000 kr i kredit. Utkastet skickades för intern bedömning. Det innehåller inget slutligt godkännande.
+
+
+[S16]
+Title: Refund Approval – Case RF-8821
+Date: 2026-09-05 00:00:00
+Status: Godkänt individuellt undantag
+Customer: Norrvik Media
+Content: Head of Customer Operations godkänner en kredit på 4 800 kr till Business-kunden Norrvik Media. Orsak: dokumenterad serviceincident. Beslutet gäller endast Norrvik Media och faktura INV-8821. Det ändrar inte den generella refund-policyn.
+
+
+[D16]
+Title: Finance Training Note
+Date: 2026-07-30 00:00:00
+Status: Intern utbildning
+Customer: 
+Content: Exempel i utbildningen: en kredit på 7 500 kr behöver eskaleras till Finance Director. Exemplet illustrerar approval-processen men är inte i sig en policykälla.

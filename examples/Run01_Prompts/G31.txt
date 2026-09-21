@@ -1,0 +1,52 @@
+INSTRUCTION
+Answer the question using only the documents below.
+Do not use external knowledge and do not assume anything that is not supported by the documents.
+If the available evidence is insufficient for a confident answer, state that clearly.
+Prioritize current, customer-specific and authoritative sources over older, informal or preliminary documents.
+
+
+QUESTION
+En support lead säger internt att Enterprise P1 i praktiken alltid bör vara max 30 minuter. Vilken svarstid gäller för en vanlig Enterprise Standard-kund?
+
+
+DOCUMENTS
+
+
+[S13]
+Title: Support Operations Slack Summary
+Date: 2026-08-28 00:00:00
+Status: Intern informell sammanfattning
+Customer: 
+Content: En support lead skriver: För Enterprise brukar vi i praktiken sikta på max 30 min för P1, oavsett tier. Bergström ligger ännu snabbare. Meddelandet är en intern arbetssammanfattning och ändrar inte kundavtal eller officiellt SLA.
+
+
+[D29]
+Title: Enterprise SLA Comparison
+Date: 2026-08-15 00:00:00
+Status: Intern analys
+Customer: 
+Content: Tabellen jämför Enterprise Standard: 2 timmar; Enterprise Premium: 30 minuter; vissa kundspecifika avtal: 20–60 minuter. Dokumentet är en översikt och säger att respektive kundavtal ska kontrolleras för kundspecifika nivåer.
+
+
+[D01]
+Title: Support SLA v2.8
+Date: 2025-11-15 00:00:00
+Status: Ersatt
+Customer: 
+Content: Enterprise Standard P1 hade tidigare en initial svarstid på 4 timmar. Enterprise Premium P1 hade 1 timme. Dokumentet ersattes av senare SLA-version.
+
+
+[S2]
+Title: Support SLA v3.1
+Date: 2026-08-10 00:00:00
+Status: Gällande
+Customer: 
+Content: Basic: Initial svarstid 2 arbetsdagar. Business: Initial svarstid 8 arbetstimmar. Enterprise Standard: P1 2 timmar, 24/7; P2 4 arbetstimmar; P3 1 arbetsdag. Enterprise Premium: P1 30 minuter, 24/7; P2 2 arbetstimmar; P3 8 arbetstimmar. P1 avser ett fullständigt produktionsstopp utan fungerande workaround. Ett affärskritiskt problem med fungerande workaround är inte automatiskt P1. Kundspecifika supportvillkor kan ersätta standardnivåerna.
+
+
+[S5]
+Title: Customer Help FAQ
+Date: 2025-09-18 00:00:00
+Status: Äldre / ej bekräftad som aktuell
+Customer: 
+Content: FAQ:n innehåller bland annat följande: dataexport finns normalt tillgänglig i 30 dagar efter kontoavslut; Enterprise P1 har normalt en timmes initial svarstid; kunder kan kontakta support för att diskutera återbetalning inom 30 dagar från betalning. FAQ-sidan saknar uppgift om huruvida informationen fortfarande är aktuell.

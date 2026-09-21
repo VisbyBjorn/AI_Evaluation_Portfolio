@@ -1,0 +1,10 @@
+Example evaluation questions
+
+G32
+Does the newer internal Slack summary replace the current Enterprise Standard P1 response time?
+
+G41
+A FjällData customer closes on September 1 and export is unavailable September 12–14. Does the outage automatically extend the export period?
+
+G45
+A colleague says FjällData has a 30-minute P1 response time based on an internal Slack summary and renewal draft. Is that correct?
