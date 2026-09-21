@@ -124,3 +124,5 @@ The project does not currently include:
 Results should therefore be interpreted only within this evaluation setup.
 
 ## Purpose
+
+The purpose of this project is to demonstrate a practical and structured approach to AI quality evaluation, including retrieval measurement, source analysis, error analysis, and reproducible experimentation.
