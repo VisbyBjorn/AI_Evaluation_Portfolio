@@ -91,19 +91,20 @@ AI_Evaluation_Portfolio
 ├── examples
 ├── README.md
 └── requirements.txt
+```
 
 ## Tools
 
 The project uses:
 
-- Python
-- pandas
-- scikit-learn
-- TF-IDF
-- cosine similarity
-- SentenceTransformers
-- multilingual embeddings
-- CrossEncoder reranking
+* Python
+* pandas
+* scikit-learn
+* TF-IDF
+* cosine similarity
+* SentenceTransformers
+* multilingual embeddings
+* CrossEncoder reranking
 
 ## Limitations
 
@@ -113,15 +114,13 @@ The corpus is small and manually constructed.
 
 The project does not currently include:
 
-- production vector databases
-- document chunking
-- access control
-- large-scale retrieval
-- production observability
-- automated LLM API evaluation pipelines
+* production vector databases
+* document chunking
+* access control
+* large-scale retrieval
+* production observability
+* automated LLM API evaluation pipelines
 
 Results should therefore be interpreted only within this evaluation setup.
 
 ## Purpose
-
-The purpose of this project is to demonstrate a practical and structured approach to AI quality evaluation, including retrieval measurement, source analysis, error analysis, and reproducible experimentation.
